@@ -1,0 +1,13 @@
+# Custom aliases
+alias l='ls -l'
+alias z='cd ..'
+
+# git commands
+alias gb='git branch'
+
+# tmux
+alias ta='tmux attach -t'
+alias tls='tmux ls'
+
+# firewalld
+alias fw='firewall-cmd --list-all'
