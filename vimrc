@@ -4,4 +4,6 @@ set title
 set numberwidth=7
 set shiftwidth=4 smarttab
 set expandtab
-colorscheme sorbet 
+colorscheme sorbet
+set laststatus=2
+set statusline+=%F
