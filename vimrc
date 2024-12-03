@@ -2,6 +2,6 @@ set number
 set showmode
 set title
 set numberwidth=7
-set tabstop=4
+set shiftwidth=4 smarttab
 set expandtab
 colorscheme sorbet 
