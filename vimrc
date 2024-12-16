@@ -7,3 +7,5 @@ set expandtab
 colorscheme sorbet
 set laststatus=2
 set statusline+=%F
+nnoremap j gj
+nnoremap k gk
